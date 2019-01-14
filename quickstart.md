@@ -1,16 +1,20 @@
 # Raspberry Pi Software Guide
 
-So you've got a Raspberry Pi, and you've made sure you have all the [physical equipment](https://www.raspberrypi.org/learning/hardware-guide) you need. Now what? It's time to get yourself an operating system and boot up your Raspberry Pi.
+Based on a work at https://github.com/raspberrypilearning/software-guide [![Creative Commons License](http://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
+
+## Requirements
+
+* Raspberry Pi
+* USB Power Supply
+* HDMI Display
+* MicroSD card + Adapter
+* Keyboard + Mouse
 
 ![](images/all-the-things.png)
 
 ## Getting an operating system
 
 The recommended operating system for use with the Raspberry Pi is called Raspbian. Raspbian is a version of GNU/Linux, designed specifically to work well with the Raspberry Pi. You have several options when it comes to getting hold of a copy of Raspbian.
-
-### Buy a pre-installed SD card
-
-The easiest way to get NOOBS or Raspbian is to buy an SD card with the software already installed. You can get a pre-installed Raspbian card from [RS](http://uk.rs-online.com/web/c/computing-peripherals/data-storage-memory/secure-digital-cards/?searchTerm=noobs) or [The Pi Hut](https://thepihut.com/products/raspbian-preinstalled-sd-card).
 
 ### Install Raspbian with NOOBS
 
@@ -74,8 +78,6 @@ An alternative to using NOOBS to install Raspbian is to download and install the
 
 Now that you have an operating system, you can slot your SD card into your Raspberry Pi and connect the power. Follow the [hardware help section](https://www.raspberrypi.org/learning/hardware-guide) if you need assistance with this.
 
-<iframe src="https://youtu.be/ZYE_ob_rxIY" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
 1. If you are using NOOBS and  this is the first time your Raspberry Pi and SD card have been used, then you'll have to select an operating system and let it install.
 
     ![](images/noobs.gif)
@@ -84,7 +86,7 @@ Now that you have an operating system, you can slot your SD card into your Raspb
 
 ## What next?
 
-- Learn how to [update your SD card](update-sd-card.md)
 - Connect your Raspberry Pi to [a wireless network](wifi.md)
+- Learn how to [update your SD card](update-sd-card.md)
 - Install more [applications](install-apps.md)
 - Discover how to [back up your SD card](backup.md)

@@ -5,8 +5,24 @@ You can use text commands to download and install extra applications you might n
 1. From a terminal window or on the command line, type `sudo apt-get install <name of software>` and press **Enter** on the keyboard.
 1. After searching for the package and downloading it, you will be asked if you want to continue with the installation. Press **Y** or **Enter** on the keyboard to continue.
 
+For example, for the rest of the workshop, the following packages are useful essential:
+
+```bash
+sudo apt-get install python3 python3-pip
+```
+
+
+
+You can also delete applications using a similar command: If you've installed raspbian via NOOBS, it can be beneficial for update / installation times to delete the `wolfram-engine` package that enables 'Mathematica' like this
+
+```bash
+sudo apt-get purge wolfram-engine
+```
+
+
+
 ## What next?
 
 - Learn how to [update your SD card](update-sd-card.md)
 - Connect your Raspberry Pi to [WiFi](wifi.md)
-- Return to [Raspberry Pi Software Guide](quickstart.md)
+- Return to [Start](quickstart.md)

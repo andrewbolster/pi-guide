@@ -1,6 +1,0 @@
-- [Downloading and installing the Raspberry Pi software](quickstart.md)
-- [Learn how to update your SD card](update-sd-card.md)
-- [Connect your Raspberry Pi to WiFi](wifi.md)
-- [Learn how to install more applications](install-apps.md)
-- [Discover how to back up your SD card](backup.md)
-- [Start learning or making with our free resources](https://www.raspberrypi.org/learning/)

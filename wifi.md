@@ -1,6 +1,6 @@
 # Guide to connecting to a wireless network
 
-If you want to connect your Raspberry Pi to the internet or local network then you will need to follow these steps:
+If you want to connect your Raspberry Pi to the internet or local network via wifi then you will need to follow these steps:
 
 ## Connecting to wireless LAN
 
@@ -13,6 +13,6 @@ If you want to connect your Raspberry Pi to the internet or local network then y
 
 ## What next?
 
-- Return to the [Raspberry Pi Software Guide](quickstart.md)
+- Return to the [Start](quickstart.md)
 - Learn how to [update your SD card](update-sd-card.md)
 - Install more [applications](install-apps.md)

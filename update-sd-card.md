@@ -38,6 +38,6 @@ When running `sudo apt-get upgrade`, it will show how much data will be download
 
 ## What next?
 
-- Return to [Raspberry Pi Software Guide](quickstart.md)
+- Return to [Start](quickstart.md)
 - Install more [applications](install-apps.md)
 - Connect your Raspberry Pi to [WiFi](wifi.md)

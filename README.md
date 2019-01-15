@@ -31,7 +31,7 @@ By the end of this session, we expect to have run through a range of potential u
 
 ### Automation
 
-* [Automatically Booting into a Website](autostart-website.md)
+* [Automatically Booting into a Website](auto-website.md)
 * Automatically Launching a PyGame App
 * Automatically Launching a Processing App
 
